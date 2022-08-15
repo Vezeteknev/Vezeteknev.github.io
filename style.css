@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+body {
+    background-image: url("https://oboi-ma.ru/f/product/306894.jpg");
+}
+
+.font {
+    font-family: 'Caveat', cursive;
+}
+
+.answer {
+    font-size: 50px;
+    font-family:'Caveat', cursive ;
+}
+
+.back {
+	
+	
+
+    color: #000;
+	user-select: none; /* Убираем текстовое выделение */
+	text-decoration: none;	/* Убираем подчеркивание */
+	outline: none; /* Убираем контур вокруг ссылки */
+    font-family:'Caveat', cursive ;
+    font-size: 30px;
+}         
+
+.back:hover {
+	color: #000; /* Цвет кнопки при наведении курсора */
+}
